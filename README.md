@@ -1,2 +1,5 @@
 Stanford University Machine Learning Course
-I took the assignments in this course that is originally in Octave/Matlab and re-coded it in Python
+
+I converted the original Matlab code into Python
+
+Week2: Linear Regression with multiple variables
